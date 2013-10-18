@@ -16,3 +16,13 @@
 *.exe
 *.out
 *.app
+
+#QTCreator files
+*.config
+*.creator
+*.creator.user
+*.files
+*.includes
+
+#binaries
+maze
